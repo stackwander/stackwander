@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Projects
 
-A catalog of applications, nested projects, prototypes, and learning collections. Related backend/frontend components are listed separately; CrewAI and LangGraph collections each summarize their topics in one row. Descriptions reflect the source files and documentation available in this workspace.
+A catalog of applications, nested projects, prototypes, and learning collections. Related backend/frontend components are listed separately; agent-framework learning collections are combined under Agentic AI. Descriptions reflect the source files and documentation available in this workspace.
 
 | Project name | Description |
 | --- | --- |
@@ -35,9 +35,7 @@ A catalog of applications, nested projects, prototypes, and learning collections
 | AI Expense Assist | Expo/React Native expense-management app with receipt capture, budgets, an encrypted local ledger, and offline screens; integrates Firebase authentication, optional Firestore backup/synchronization, security rules, and device-token storage through an interchangeable backend adapter. |
 | HaulEx | Next.js frontend prototype of a UK haulage exchange with customer job posting, contractor quotes, vehicle matching, fleet management, and delivery details using mock data. |
 | Convoy | CrewAI and FastAPI fleet-breakdown recovery demo with a React dashboard; dispatcher, planning, compliance, and communications agents compare options, request spend approval, retry execution, and retain preferences. |
-| Agentic AI Examples | Six Python examples comparing OpenAI Agents SDK, AutoGen, CrewAI, and LangGraph through tools, handoffs, guardrails, team chat, automated data science, and graph workflows. |
-| CrewAI Learning Projects | Coffee-commerce learning collection covering agents and tasks, sequential and hierarchical crews, built-in/custom tools, structured output, delegation, memory and RAG, guardrails, event-driven flows, state, parallel routing, human review, planning, checkpoints, training/evaluation, MCP/A2A, observability, async streaming, skills, multimodal input, model providers, YAML configuration, LLM hooks, and a capstone pipeline. |
-| LangGraph Learning Projects | Twelve Python examples covering state graphs, conversational history, calculator and search tools, ReAct loops, research summarization, persistent memory, human approval, code generation and retries, supervisor teams, parallel map-reduce reports, MCP tool discovery, and peer-to-peer agent handoffs. |
+| Agentic AI | Python learning projects across OpenAI Agents SDK, AutoGen, CrewAI, and LangGraph covering tool use, multi-agent collaboration and handoffs, guardrails, structured output, memory and RAG, stateful graphs, ReAct and research loops, parallel workflows, human approval, code generation, planning and checkpoints, training/evaluation, MCP/A2A, observability, streaming, multimodal input, model configuration, and end-to-end commerce pipelines. |
 | Clean TypeScript Shop p4 | Educational Express/Prisma/MongoDB commerce API with Clean Architecture, users and JWT authentication, Redis-backed login state, and monitoring integrations. |
 | Clean TypeScript Shop p5 | Modular commerce API extending the Express/Prisma/MongoDB approach with validated contracts, transactional order handling, inventory protection, and container deployment. |
 | NestJS Shop p6 | NestJS/TypeORM/PostgreSQL shop API with customers, products, orders, transactional inventory handling, validation, pagination, and idempotent operations. |
