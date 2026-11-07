@@ -1,3 +1,5 @@
+![Stackwander — Artificial Intelligence Engineering](assets/stackwander-banner.png)
+
 ## Hi there 👋
 
 <!--
