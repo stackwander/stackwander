@@ -32,9 +32,7 @@ A catalog of applications, nested projects, prototypes, and learning collections
 | EcomBot Frontend | React, TypeScript, and Vite chat UI for streaming shopping conversations and displaying the agent's tool activity. |
 | EcomBot Voice | English/Urdu voice-commerce assistant using LiveKit and FastAPI, with browser calling, interruptions, commerce tools, and interchangeable speech and realtime-model pipelines. |
 | EcomBot Video Concept | Architecture-only exploration of a portable voice/video commerce assistant using WebRTC, open models, avatar rendering, RAG, and containerized infrastructure. |
-| AI Expense Assist | Mobile expense-management project combining an Expo/React Native client, local encrypted ledger, receipt capture, budgets, and optional Firebase identity and synchronization. |
-| AI Expense Assist Mobile | Mobile frontend with expense and budget screens, receipt-camera integration, local storage, and an interchangeable backend adapter guided by an OpenAPI contract. |
-| AI Expense Assist Firebase Backend | Firebase Auth, Firestore rules, ledger mirroring, configuration, and device-token storage for the expense app; designed without a separate server process. |
+| AI Expense Assist | Expo/React Native expense-management app with receipt capture, budgets, an encrypted local ledger, and offline screens; integrates Firebase authentication, optional Firestore backup/synchronization, security rules, and device-token storage through an interchangeable backend adapter. |
 | HaulEx | Next.js frontend prototype of a UK haulage exchange with customer job posting, contractor quotes, vehicle matching, fleet management, and delivery details using mock data. |
 | Convoy | CrewAI and FastAPI fleet-breakdown recovery demo with a React dashboard; dispatcher, planning, compliance, and communications agents compare options, request spend approval, retry execution, and retain preferences. |
 | Marcato Storefront | Next.js commerce client with product browsing, product details, recommendations, a cart, stock helpers, and order-tracking pages. |
