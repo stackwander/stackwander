@@ -1,7 +1,5 @@
 ![Stackwander — Artificial Intelligence Engineering](assets/stackwander-banner.png)
 
-## Hi there 👋
-
 <!--
 **stackwander/stackwander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Projects
 
-A catalog of applications, nested projects, prototypes, and learning collections. Related backend/frontend components are listed separately; agent-framework learning collections are combined under Agentic AI. Descriptions reflect the source files and documentation available in this workspace.
+A catalog of applications, nested projects, prototypes, and learning collections.
 
 | Project name | Description |
 | --- | --- |
