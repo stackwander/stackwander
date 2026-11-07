@@ -25,11 +25,7 @@ A catalog of applications, nested projects, prototypes, and learning collections
 | --- | --- |
 | AccessHub | Central authentication and fine-grained access management with hierarchical permissions, roles, API keys, TOTP MFA, Google sign-in, and REST/gRPC integration; built with FastAPI, PostgreSQL, and Next.js. |
 | AccessHub Test Client | Standalone Next.js consumer app for exercising authentication, MFA, account recovery, and permission checks, with a live request/response log. |
-| EcomBot | Conversational commerce suite combining a streaming chat interface, LangGraph shopping agent, MCP commerce tools, and a searchable FAQ knowledge base. |
-| EcomBot Backend | FastAPI shopping-agent API using LangGraph and Mistral, with MCP tool discovery, SSE responses, session tokens, conversation memory, and input guardrails. |
-| EcomMCP | MCP server exposing commerce and order-management tools, OAuth authentication, and FAQ retrieval backed by Pinecone and Cohere. |
-| EcomBot RAG Builder | CSV-to-Pinecone ingestion and semantic-search pipeline with Cohere embeddings and reranking, incremental updates, deduplication, stale-vector cleanup, and retries. |
-| EcomBot Frontend | React, TypeScript, and Vite chat UI for streaming shopping conversations and displaying the agent's tool activity. |
+| EcomBot | Conversational commerce suite with a React/TypeScript streaming chat UI, a FastAPI/LangGraph shopping agent using Mistral, and an OAuth-enabled MCP server for commerce and order-management tools. Includes session tokens, conversation memory, input guardrails, and a CSV-to-Pinecone FAQ pipeline using Cohere embeddings and reranking, incremental updates, deduplication, stale-vector cleanup, and retries. |
 | EcomBot Voice | English/Urdu voice-commerce assistant using LiveKit and FastAPI, with browser calling, interruptions, commerce tools, and interchangeable speech and realtime-model pipelines. |
 | EcomBot Video Concept | Architecture-only exploration of a portable voice/video commerce assistant using WebRTC, open models, avatar rendering, RAG, and containerized infrastructure. |
 | AI Expense Assist | Expo/React Native expense-management app with receipt capture, budgets, an encrypted local ledger, and offline screens; integrates Firebase authentication, optional Firestore backup/synchronization, security rules, and device-token storage through an interchangeable backend adapter. |
