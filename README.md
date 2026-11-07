@@ -35,7 +35,6 @@ A catalog of applications, nested projects, prototypes, and learning collections
 | AI Expense Assist | Expo/React Native expense-management app with receipt capture, budgets, an encrypted local ledger, and offline screens; integrates Firebase authentication, optional Firestore backup/synchronization, security rules, and device-token storage through an interchangeable backend adapter. |
 | HaulEx | Next.js frontend prototype of a UK haulage exchange with customer job posting, contractor quotes, vehicle matching, fleet management, and delivery details using mock data. |
 | Convoy | CrewAI and FastAPI fleet-breakdown recovery demo with a React dashboard; dispatcher, planning, compliance, and communications agents compare options, request spend approval, retry execution, and retain preferences. |
-| Platform Access Design | HTML/CSS/JavaScript design handoff for the bookmark extension, retained as the visual prototype rather than a separate production app. |
 | Agentic AI Examples | Six Python examples comparing OpenAI Agents SDK, AutoGen, CrewAI, and LangGraph through tools, handoffs, guardrails, team chat, automated data science, and graph workflows. |
 | CrewAI Learning Projects | Coffee-commerce learning collection covering agents and tasks, sequential and hierarchical crews, built-in/custom tools, structured output, delegation, memory and RAG, guardrails, event-driven flows, state, parallel routing, human review, planning, checkpoints, training/evaluation, MCP/A2A, observability, async streaming, skills, multimodal input, model providers, YAML configuration, LLM hooks, and a capstone pipeline. |
 | LangGraph Learning Projects | Twelve Python examples covering state graphs, conversational history, calculator and search tools, ReAct loops, research summarization, persistent memory, human approval, code generation and retries, supervisor teams, parallel map-reduce reports, MCP tool discovery, and peer-to-peer agent handoffs. |
@@ -48,6 +47,3 @@ A catalog of applications, nested projects, prototypes, and learning collections
 | React Dashboard p8 | Vite/React/Material UI learning frontend combining marketing pages, registration, login, and a customer dashboard; backend contract updates still require integration adjustments. |
 | n8n Agent Workflows | Exported automation workflows for research, email, calendar, project management, sales prospecting, and technical analysis; intended for import into n8n. |
 | Flowise Collection | Reserved workflow-export folder; currently empty. |
-| Helper Scripts | Small utilities for converting Word documents to PDF and correcting Git author information. |
-| Project Documentation | Supporting documentation for AccessHub, EcomBot Voice, and Convoy; companion material for those projects. |
-| Stackwander Profile | GitHub profile README and banner assets, including this project catalog. |
