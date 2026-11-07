@@ -38,4 +38,5 @@ A catalog of applications, nested projects, prototypes, and learning collections
 | NestJS GraphQL Shop p7 | NestJS/Apollo/Prisma/PostgreSQL commerce API with code-first GraphQL, accounts, customer ownership checks, and transactional inventory protection. |
 | React Dashboard p8 | Vite/React/Material UI learning frontend combining marketing pages, registration, login, and a customer dashboard; backend contract updates still require integration adjustments. |
 | n8n Agent Workflows | Exported automation workflows for research, email, calendar, project management, sales prospecting, and technical analysis; intended for import into n8n. |
-| Flowise Collection | Reserved workflow-export folder; currently empty. |
+| Flowise Collection | Flow wise export collection |
+| ML & DL | Comprehensive Machine Learning, Deep Learning prototypes converging nearly all aspects of subject |
