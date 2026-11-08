@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 | [Backend with Clean Architecture](https://github.com/stackwander/typescript-clean-ecommerce-api)  | TypeScript commerce REST API built with Express, Prisma, MongoDB, and Clean Architecture. Features transactional orders, inventory protection, API security, Docker, Kong, and observability with Prometheus, Grafana, and Loki. Tutorial at  [Tutorial video](https://www.youtube.com/watch?v=5aoPYlxv_MA&list=PLxhpwhPE6CABgYeed3YNs4HRCwPoln3j-&index=2)(backendcleants_p5)                                                                                                                                                                                                                                                                                               |
 | [Backend with VSA and NestJS](https://github.com/stackwander/nestjs-vsa-ecommerce-api)           | A NestJS VSA e-commerce REST API built with TypeScript, PostgreSQL, and TypeORM. Features customer and product management, transactional orders, inventory locking, idempotent requests, API key authentication, and Docker deployment. [Tutorial video](https://www.youtube.com/watch?v=VgZGpkYw-c0&list=PLxhpwhPE6CABgYeed3YNs4HRCwPoln3j-&index=6)(NodeBackend_p6)                                                                                                                                                                                                                                                                                                                |
 | [Backend NestJs/VSA Secure](https://github.com/stackwander/nestjs-secure-commerce-api) NestJS Secure Shop p6_1   | Secure NestJS VSA commerce API with JWT authentication, rotating refresh tokens, role-based access, transactional orders, inventory protection, and idempotency. Built with TypeScript, PostgreSQL, TypeORM, and Docker. [Tutorial video](https://www.youtube.com/watch?v=o3744kKmb0E&list=PLxhpwhPE6CABgYeed3YNs4HRCwPoln3j-&index=9)                                                                                                                                                                                                                                                                                                 |
-| NestJS Auth Variant p6_1a | Separate shop API variant combining p6 inventory/order safeguards with revocable user sessions, refresh, logout, and authorization behavior.                                                                                                                                                                                                                                                                                                                             |
 | NestJS GraphQL Shop p7    | NestJS/Apollo/Prisma/PostgreSQL commerce API with code-first GraphQL, accounts, customer ownership checks, and transactional inventory protection.                                                                                                                                                                                                                                                                                                                       |
 | React Dashboard p8        | Vite/React/Material UI learning frontend combining marketing pages, registration, login, and a customer dashboard; backend contract updates still require integration adjustments.                                                                                                                                                                                                                                                                                       |
 | n8n Agent Workflows       | Exported automation workflows for research, email, calendar, project management, sales prospecting, and technical analysis; intended for import into n8n.                                                                                                                                                                                                                                                                                                                |
@@ -45,8 +44,6 @@ Here are some ideas to get you started:
 ## Technologies & packages
 
 Technologies found in project manifests, source imports, notebooks, and infrastructure or workflow configuration. Includes optional examples and configured integrations; badges identify technologies without asserting versions, test results, or deployment status.
-
-**Languages & application frameworks**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logoColor=white&logo=python)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logoColor=white&logo=typescript)](https://www.typescriptlang.org/)
@@ -65,9 +62,6 @@ Technologies found in project manifests, source imports, notebooks, and infrastr
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logoColor=white&logo=graphql)](https://graphql.org/)
 [![Apollo Server](https://img.shields.io/badge/Apollo%20Server-311C87?style=flat&logoColor=white&logo=apollographql)](https://www.apollographql.com/docs/apollo-server/)
 [![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat&logoColor=white&logo=gradio)](https://www.gradio.app/)
-
-**UI, mobile & client state**
-
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logoColor=white&logo=tailwindcss)](https://tailwindcss.com/)
 [![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logoColor=white&logo=mui)](https://mui.com/)
 [![Emotion](https://img.shields.io/badge/Emotion-D26AC2?style=flat&logoColor=white)](https://emotion.sh/)
@@ -84,9 +78,6 @@ Technologies found in project manifests, source imports, notebooks, and infrastr
 [![React Native MMKV](https://img.shields.io/badge/React%20Native%20MMKV-3B82F6?style=flat&logoColor=white&logo=react)](https://github.com/mrousavy/react-native-mmkv)
 [![FlashList](https://img.shields.io/badge/FlashList-95BF47?style=flat&logoColor=white&logo=shopify)](https://shopify.github.io/flash-list/)
 [![Expo SecureStore](https://img.shields.io/badge/Expo%20SecureStore-000020?style=flat&logoColor=white&logo=expo)](https://docs.expo.dev/versions/latest/sdk/securestore/)
-
-**Agents, models & realtime voice**
-
 [![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI%20Agents%20SDK-412991?style=flat&logoColor=white)](https://openai.github.io/openai-agents-python/)
 [![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logoColor=white)](https://platform.openai.com/docs/)
 [![OpenAI Realtime](https://img.shields.io/badge/OpenAI%20Realtime-412991?style=flat&logoColor=white)](https://platform.openai.com/docs/guides/realtime)
@@ -107,9 +98,6 @@ Technologies found in project manifests, source imports, notebooks, and infrastr
 [![Silero VAD](https://img.shields.io/badge/Silero%20VAD-1D4ED8?style=flat&logoColor=white)](https://github.com/snakers4/silero-vad)
 [![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logoColor=white&logo=webrtc)](https://webrtc.org/)
 [![Faster Whisper](https://img.shields.io/badge/Faster%20Whisper-2563EB?style=flat&logoColor=white)](https://github.com/SYSTRAN/faster-whisper)
-
-**Data, persistence & API contracts**
-
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logoColor=white&logo=postgresql)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logoColor=white&logo=mongodb)](https://www.mongodb.com/)
 [![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logoColor=white&logo=redis)](https://redis.io/)
@@ -128,9 +116,6 @@ Technologies found in project manifests, source imports, notebooks, and infrastr
 [![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat&logoColor=white)](https://grpc.io/)
 [![Protocol Buffers](https://img.shields.io/badge/Protocol%20Buffers-4285F4?style=flat&logoColor=white)](https://protobuf.dev/)
 [![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logoColor=white&logo=openapiinitiative)](https://www.openapis.org/)
-
-**Machine learning, deep learning & scientific computing**
-
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logoColor=white&logo=numpy)](https://numpy.org/)
 [![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logoColor=white&logo=pandas)](https://pandas.pydata.org/)
 [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logoColor=white&logo=scipy)](https://scipy.org/)
@@ -156,9 +141,6 @@ Technologies found in project manifests, source imports, notebooks, and infrastr
 [![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logoColor=white&logo=onnx)](https://onnx.ai/)
 [![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-005CED?style=flat&logoColor=white&logo=onnx)](https://onnxruntime.ai/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logoColor=white&logo=jupyter)](https://jupyter.org/)
-
-**Automation & connected services**
-
 [![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logoColor=white&logo=n8n)](https://n8n.io/)
 [![Flowise](https://img.shields.io/badge/Flowise-3B81F6?style=flat&logoColor=white)](https://flowiseai.com/)
 [![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat&logoColor=white&logo=airtable)](https://airtable.com/)
@@ -168,9 +150,6 @@ Technologies found in project manifests, source imports, notebooks, and infrastr
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logoColor=white&logo=telegram)](https://core.telegram.org/bots/api)
 [![WhatsApp Business](https://img.shields.io/badge/WhatsApp%20Business-25D366?style=flat&logoColor=white&logo=whatsapp)](https://developers.facebook.com/docs/whatsapp/)
 [![SerpApi](https://img.shields.io/badge/SerpApi-4285F4?style=flat&logoColor=white)](https://serpapi.com/)
-
-**Security, deployment & observability**
-
 [![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logoColor=white&logo=jsonwebtokens)](https://jwt.io/)
 [![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat&logoColor=white&logo=passport)](https://www.passportjs.org/)
 [![Helmet](https://img.shields.io/badge/Helmet-000000?style=flat&logoColor=white&logo=helmet)](https://helmetjs.github.io/)
@@ -183,9 +162,6 @@ Technologies found in project manifests, source imports, notebooks, and infrastr
 [![Grafana Alloy](https://img.shields.io/badge/Grafana%20Alloy-F46800?style=flat&logoColor=white&logo=grafana)](https://grafana.com/docs/alloy/)
 [![Kong Gateway](https://img.shields.io/badge/Kong%20Gateway-003459?style=flat&logoColor=white&logo=kong)](https://docs.konghq.com/gateway/)
 [![Winston](https://img.shields.io/badge/Winston-231F20?style=flat&logoColor=white)](https://github.com/winstonjs/winston)
-
-**Testing & code quality**
-
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logoColor=white&logo=jest)](https://jestjs.io/)
 [![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logoColor=white&logo=pytest)](https://docs.pytest.org/)
 [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logoColor=white)](https://playwright.dev/)
