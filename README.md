@@ -41,9 +41,7 @@ Here are some ideas to get you started:
 | n8n Agent Workflows       | Exported automation workflows for research, email, calendar, project management, sales prospecting, and technical analysis; intended for import into n8n.                                                                                                                                                                                                                                                                                                                |
 | Flowise Collection        | Flow wise export collection  |                                                                                                                 
 | AI - ML & DL              | Comprehensive collection of Machine Learning & Deep Learning reusable code converging > 80% od aspects of the domain      |
-
- | AI Model Finetune Scripts | Reusable Python Scriptts to fine-tune models using LORA/QLORA |
-
+| AI Model Finetune Scripts | Reusable Python Scriptts to fine-tune models using LORA/QLORA |
 | Event Driven Backend starter template | Pull and start building highly scalable event driven backend with MCP extension for your next projects. |
 
 
