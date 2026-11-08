@@ -40,10 +40,11 @@ Here are some ideas to get you started:
 | n8n Agent Workflows       | Exported automation workflows for research, email, calendar, project management, sales prospecting, and technical analysis; intended for import into n8n.                                                                                                                                                                                                                                                                                                                |
 | Flowise Collection        | Flow wise export collection                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | ML & DL                   | Comprehensive Machine Learning, Deep Learning prototypes converging nearly all aspects of subject                                                                                                                                                                                                                                                                                                                                                                        |
+| Event Driven Backend starter template | Pull and start building highly scalable event driven backend with MCP extension for your next projects. |
 
 ## Technologies & packages
 
-Technologies found in project manifests, source imports, notebooks, and infrastructure or workflow configuration. Includes optional examples and configured integrations; badges identify technologies without asserting versions, test results, or deployment status.
+🚀 A subset used in projects
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logoColor=white&logo=python)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logoColor=white&logo=typescript)](https://www.typescriptlang.org/)
