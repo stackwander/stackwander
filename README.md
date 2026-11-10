@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 | AI - ML & DL              | Comprehensive collection of Machine Learning & Deep Learning reusable code converging > 80% od aspects of the domain      |
 | AI Model Finetune Scripts | Reusable Python Scriptts to fine-tune models using LORA/QLORA |
 | Event Driven Backend starter template | Pull and start building highly scalable event driven backend with MCP extension for your next projects. |
+| [fine-tune-scripts](https://github.com/stackwander/fine-tune-scripts) | Finetune AI Models : Reusable Hugging Face PEFT Lora and QLora finetuning scripts |
 
 
 
